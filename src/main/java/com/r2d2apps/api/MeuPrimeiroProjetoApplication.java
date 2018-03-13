@@ -9,5 +9,6 @@ public class MeuPrimeiroProjetoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjetoApplication.class, args);
+		System.out.println("Meu primeiro projeto");
 	}
 }
